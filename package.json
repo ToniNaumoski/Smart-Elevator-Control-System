@@ -1,0 +1,30 @@
+{
+  "name": "Elevator Control System",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "start-server-and-test dev http://localhost:5173 cypress:run"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@cypress/vite-dev-server": "^6.0.3",
+    "@cypress/vue": "^6.0.2",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "autoprefixer": "^10.4.21",
+    "cypress": "^14.4.1",
+    "postcss": "^8.5.4",
+    "start-server-and-test": "^2.0.12",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
