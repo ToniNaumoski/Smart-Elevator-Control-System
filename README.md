@@ -147,6 +147,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Toni Naumoski - Senior Frontend Developer
+Toni Naumoski 
 - [LinkedIn](https://www.linkedin.com/in/toni-naumoski-2859293b/)
 - [Portfolio](https://toninaumoski.github.io/)
